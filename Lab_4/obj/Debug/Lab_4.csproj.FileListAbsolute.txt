@@ -1,0 +1,45 @@
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.FormAbout.resources
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.FormMain.resources
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.FormWord.resources
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Users\peppa\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\peppa\Desktop\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\peppa\Desktop\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.dll
+C:\Users\peppa\Desktop\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.pdb
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\peppa\Desktop\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.dll
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.pdb
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormAbout.resources
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormMain.resources
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormWord.resources
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe.config
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\bin\Debug\LibraryForNotebook.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormAbout.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormMain.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.FormWord.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\Lab_4\obj\Debug\Lab_4.pdb

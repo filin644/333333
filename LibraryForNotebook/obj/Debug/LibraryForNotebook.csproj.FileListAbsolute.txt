@@ -1,0 +1,18 @@
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.dll
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.pdb
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csproj.AssemblyReference.cache
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csproj.CoreCompileInputs.cache
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.dll
+C:\Users\peppa\Desktop\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.pdb
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.dll
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.pdb
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csprojAssemblyReference.cache
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csproj.CoreCompileInputs.cache
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.dll
+H:\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\bin\Debug\LibraryForNotebook.pdb
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csprojAssemblyReference.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.csproj.CoreCompileInputs.cache
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.dll
+E:\МДК 01.01 ДОЛГИ\МДК 01.01\Лабораторная работа 4\Lab_4\LibraryForNotebook\obj\Debug\LibraryForNotebook.pdb
